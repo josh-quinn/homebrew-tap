@@ -3,8 +3,8 @@ class Fu < Formula
 
   desc "Park ideas mid-session and resume Claude Code or Copilot sessions later"
   homepage "https://github.com/josh-quinn/fu"
-  url "https://github.com/josh-quinn/fu/releases/download/v0.1.0/fu_board-0.1.0.tar.gz"
-  sha256 "7f7fa87e5138f9c16f100482b63d519566ae9e586014de7628723c1ac0865cb1"
+  url "https://github.com/josh-quinn/fu/releases/download/v0.1.1/fu_board-0.1.1.tar.gz"
+  sha256 "ff77d92e06684253f3e1c2da5c3b514ec45de751c0f83bf1c10e503f6cae2e35"
   license "MIT"
 
   depends_on "libyaml"
